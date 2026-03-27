@@ -1,0 +1,4 @@
+requests
+firecrawl
+openai
+python-dotenv
