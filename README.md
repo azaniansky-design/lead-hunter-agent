@@ -48,5 +48,5 @@ The agent outputs:
 
 ## Contact
 
-- Email: vespertine.ai@gmail.com
+- Email: vespertine.leads@gmail.com
 - Website: [Coming Soon]
